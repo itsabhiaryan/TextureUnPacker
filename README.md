@@ -5,7 +5,7 @@
 
 This is reverse engineering of Texture Packer used in LibGdx Projects.
 
-Click here to download [gdx-textureunpacker](https://www.dropbox.com/s/55luzp0dfz6cw0i/gdx-textureunpacker.jar).
+Click here to download [gdx-textureunpacker](http://bit.ly/1U2MYuy).
 
 
 ##FAQ
