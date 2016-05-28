@@ -3,7 +3,9 @@
 *If you are wasting your time to unpack packed file one by one, use this tool.*
 
 
-This is reverse engineering of Texture Packer used in LibGdx Projects. 
+This is reverse engineering of Texture Packer used in LibGdx Projects.
+
+Click here to download [gdx-textureunpacker](https://www.dropbox.com/s/55luzp0dfz6cw0i/gdx-textureunpacker.jar).
 
 
 ##FAQ
