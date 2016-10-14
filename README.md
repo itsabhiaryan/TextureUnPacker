@@ -9,6 +9,9 @@ This is reverse engineering of Texture Packer used in LibGdx Projects.
  [gdx-textureunpacker v.1.0](http://bit.ly/1U2MYuy).
  
  [gdx-textureunpacker v.1.1](http://bit.ly/1P0h1kQ).
+ 
+ [gdx-textureunpacker v.1.3](http://bit.ly/textureunpacker).
+ 
 
 
 
