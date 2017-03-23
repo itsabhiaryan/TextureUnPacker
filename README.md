@@ -5,12 +5,10 @@
 This is reverse engineering of Texture Packer used in LibGdx Projects.
 
 ##Downloads
-
- [gdx-textureunpacker v.1.0](http://bit.ly/1U2MYuy).
  
- [gdx-textureunpacker v.1.1](http://bit.ly/1P0h1kQ).
+ [gdx-textureunpacker v.1.2](https://github.com/itsabhiaryan/TextureUnPacker/releases/download/v.1.2/gdx-textureunpacker.jar).
  
- [gdx-textureunpacker v.1.3](http://bit.ly/2gmgCi9).
+ [gdx-textureunpacker v.1.3](https://github.com/itsabhiaryan/TextureUnPacker/releases/download/v.1.3/TextureUnPacker.jar).
  
 
 
